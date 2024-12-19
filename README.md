@@ -28,7 +28,7 @@ This project simulates a stock exchange system, focusing on the publication of c
 ### Setup and Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/stock-exchange-project.git
+   git clone https://github.com/gmadiyar00/stock-exchange-project.git
    cd stock-exchange-project
    ```
 2. Compile and run the project using your preferred Java IDE or command line:
